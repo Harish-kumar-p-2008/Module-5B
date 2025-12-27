@@ -16,4 +16,4 @@ df1 = pd.DataFrame(student_data1)
 df2 = pd.DataFrame(student_data2)
 
 combined_df = pd.concat([df1, df2], axis=0)
-print(combined_df)
+print(combi
